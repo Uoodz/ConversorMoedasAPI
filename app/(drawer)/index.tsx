@@ -21,7 +21,7 @@ export default function Page() {
           </View>
 
           <View>
-            <Link href="/(drawer)/moedas" asChild>
+            <Link href="/(drawer)/tabMoedas" asChild>
               <TouchableOpacity style={styles.botao}>
                 <Text style={{color: 'white', fontSize: 17}}>Converter</Text>
               </TouchableOpacity>
@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     alignSelf: 'center',
     justifyContent: 'center',
-    borderRadius: 20,
+    borderRadius: 15,
     backgroundColor: 'blue',
   },
 });
