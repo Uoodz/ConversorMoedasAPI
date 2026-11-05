@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
   },
 
   tituloPrincipal: {
-    marginTop: 15,
+    marginTop: '7%',
     fontSize: 15,
     alignSelf: 'center',
     textAlign: 'center',
@@ -47,20 +47,20 @@ const styles = StyleSheet.create({
   },
 
   imagemMoeda: {
-    marginTop: 15,
+    marginTop: '10%',
     alignSelf: 'center',
-    height: 150,
+    height: 200,
     width: '90%', 
     borderRadius: 15,
   },
 
   viewTextos: {
-    marginStart: 15,
-    marginEnd: 15,
+    marginStart: '5%',
+    marginEnd: '5%',
   },
 
   textos: {
-    marginTop: 15,
+    marginTop: '7%',
     fontSize: 13,
     textAlign: 'justify',
   },
@@ -68,11 +68,11 @@ const styles = StyleSheet.create({
   botao: {
     width: '90%',
     height: '25%',
-    marginTop: 75,
+    marginTop: '20%',
     alignItems: 'center',
     alignSelf: 'center',
     justifyContent: 'center',
-    borderRadius: 15,
+    borderRadius: 20,
     backgroundColor: 'blue',
   },
 });
