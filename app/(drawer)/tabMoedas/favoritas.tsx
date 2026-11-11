@@ -7,7 +7,7 @@ export default function Page() {
       <SafeAreaView>
         <ScrollView>
           <View>
-            <Text>testeeee2</Text>
+            <Text>Moedas favoritas</Text>
           </View>
         </ScrollView>
       </SafeAreaView>

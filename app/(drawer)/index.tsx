@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
 
   botao: {
     width: '90%',
-    height: '25%',
+    height: '20%',
     marginTop: '20%',
     alignItems: 'center',
     alignSelf: 'center',

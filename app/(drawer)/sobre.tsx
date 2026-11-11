@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, ScrollView} from "react-native";
 import { SafeAreaProvider, SafeAreaView} from 'react-native-safe-area-context';
-import Conteudo from '../../components/conteudo';
+import Conteudo from '../../src/components/conteudo';
 
 export default function Page() {
   return (
